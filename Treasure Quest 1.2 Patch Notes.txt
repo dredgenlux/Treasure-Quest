@@ -1,0 +1,25 @@
+Release Notes
+﻿
+Game Project: Treasure Quest
+Creator: Austin Covert
+Version: 1.2
+Date: 1/23/25
+
+
+New features
+* ﻿Added a Gnome npc at the start to give players their objective. ﻿
+﻿
+Fixes
+* ﻿Fixed an issue where the player could move through walls.
+* Fixed an issue where the end screen wouldn’t appear if the treasure hoard was approached wrong. ﻿
+* Fixed an issue where music was not playing on the second stage.
+﻿
+Improvements (of existing features)
+* ﻿Overhauled the Troll to be an enemy, which prompts a game loss when interacted with. ﻿
+* ﻿Doors should now work. 
+
+Known Bugs
+* ﻿The door from stage 1 to stage 2 will sometimes break if a player attempts to move down after traveling through it.
+
+
+﻿
